@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arslan, SecOps Engineer.
 - 👀 I’m interested in Cyber Security domain.
-- 🌱 I’m currently learning CLoud Computing and Security.
+- 🌱 I’m currently learning Cloud Computing and Security.
 
 <!---
 cyspnec/cyspnec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
