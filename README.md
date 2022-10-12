@@ -1,8 +1,1 @@
-- 👋 Hi, I’m Arslan, SecOps Engineer.
-- 👀 I’m interested in Cyber Security domain.
-- 🌱 I’m currently learning Cloud Computing and Security.
-
-<!---
-cyspnec/cyspnec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An R&D specialist with experience in various domains of cyber security including, but not limited to software security, data security, cloud computing security, and cyber threat intelligence.
