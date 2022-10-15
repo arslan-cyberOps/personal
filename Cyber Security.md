@@ -3,6 +3,7 @@ Domains
 * Software and Data Security
 * Cloud Computing Security
 * Cyber Threat Intelligence
+* Cyber Threat Modeling 
 
 Content
 
