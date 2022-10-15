@@ -7,3 +7,5 @@ Domains
 Content
 
 * Domain knowledge
+* Mind Maps 
+* Reference Books and Journals 
