@@ -6,6 +6,7 @@ Domains
 
 Content
 * Domain Knowledge
+* Mind Maps
 * Code 
 * FAQs
 * References
