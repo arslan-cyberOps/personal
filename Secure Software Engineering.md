@@ -1,5 +1,5 @@
 Domains
-* Microservice Architecture
+* Microservices Architecture
 * DevOps
 * DevSecOps
 * Site Reliability Engineering (SRE)
