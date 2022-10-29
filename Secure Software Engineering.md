@@ -1,7 +1,8 @@
 Domains
 * Microservices Architecture
-* DevOps
-* DevSecOps
+* Software Supply Chain Security
+  * DevOps
+  * DevSecOps
 * Site Reliability Engineering (SRE)
 
 Content
