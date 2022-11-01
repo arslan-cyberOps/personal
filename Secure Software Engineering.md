@@ -5,7 +5,7 @@
   * DevSecOps
   * Site Reliability Engineering (SRE)
 
-  Content
+* Content
   * Domain Knowledge
   * Mind Maps
   * Code 
