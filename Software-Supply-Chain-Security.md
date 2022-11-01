@@ -28,4 +28,7 @@
         * Container Scanning
     * Continuous Monitoring
         * Logging & Alerting
-    * Software Bill of Materials
+    * Software Bill of Materials (SBOM)
+      * Standards
+        * CycloneDX
+        * Software Package Data Exchange (SPDX)
