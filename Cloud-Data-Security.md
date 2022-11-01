@@ -4,14 +4,18 @@
       * At Rest
       * At Transit
     * Authentication & Authorization
-      * IAM
-      * PAM
-      * RBAC
-      * OAuth
-      * SAML
-      * openID
-      * SSO
-      * MFA
+      * IAM & PAM
+        * LDAP
+        * openID Connect (OIDC)
+        * SSO
+          * SAML
+          * Kerberos
+        * JSON Web Token
+        * X.509 Certificates
+        * Webhook
+        * MFA
+        * OAuth
+        * RBAC
     * Data Loss Prevention
     * Data Governance
   * Cloud Service Providers (CSPs)
