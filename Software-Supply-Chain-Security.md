@@ -13,11 +13,9 @@
           * Cyber Kill-Chain
           * Diamond Model 
       * CI / CD Pipeline Security
-          * Continuous Integration
           * Exposure Scanning
               * Pre-commit Hooks 
               * Secrets Management
-          * Continuous Delivery 
           * Artifact Scanning
               * SAST
               * DAST
