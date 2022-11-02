@@ -1,17 +1,32 @@
 * Software Supply-Chain Security
     * DevSecOps
-      * Threat Modeling
-        * Approaches
-          * Attacker-centric
-          * Software-centric
-          * Asset-centric
-          * Risk-centric
-        * Frameworks 
-          * STRIDE
-          * PASTA
-          * OCTAVE
-          * Cyber Kill-Chain
-          * Diamond Model 
+      * Continuous Integration
+        * Plan
+          * Threat Modeling
+            * Approaches
+              * Attacker-centric
+              * Software-centric
+              * Asset-centric
+              * Risk-centric
+            * Frameworks 
+              * STRIDE
+              * PASTA
+              * OCTAVE
+              * Cyber Kill-Chain
+              * Diamond Model 
+        * Develop
+        * Build
+        * Test
+      * IaC & Continuous Delivery
+        * Release
+          * Digital Sign
+        * Deliver
+          * Secure Transfer
+        * Deploy
+        * Operate
+      * Contiuous Monitoring
+        * Monitor
+        * Feedback
       * CI / CD Pipeline Security
           * Exposure Scanning
               * Pre-commit Hooks 
@@ -29,3 +44,4 @@
       * Standards
         * CycloneDX
         * Software Package Data Exchange (SPDX)
+      * SBOM Attestation
