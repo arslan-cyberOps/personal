@@ -5,13 +5,12 @@
       * Threat Modeling
     * Develop
       * Secrets Management
-      * Security Composition Analysis (SCA)
+      * Software Composition Analysis (SCA)
     * Build
-      * Security As Code
       * SAST
+      * Container Security
     * Test
       * DAST
-      * Pentesting
   * Infrastructure as Code (IaC) & Continuous Delivery
     * Release
         * Digital Sign
@@ -19,8 +18,11 @@
         * Secure Transfer
     * Deploy
       * Security Scan
+      * Pentesting
+      * Chaos Engineering
     * Operate
       * Security Patch
+      * WAF
   * Automated Security & Compliance as Code
     * Monitor
     * Feedback
