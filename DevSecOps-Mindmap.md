@@ -1,6 +1,7 @@
 * DevSecOps
   * Continuous Integration
     * Plan
+      * Pre-Commit Hooks
       * Threat Modeling
         * Approaches
             * Attacker-centric
