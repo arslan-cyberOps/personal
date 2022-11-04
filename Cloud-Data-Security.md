@@ -8,13 +8,13 @@
         * LDAP
         * openID Connect (OIDC)
         * SSO
+          * OAuth
           * SAML
           * Kerberos
         * JSON Web Token
         * X.509 Certificates
         * Webhook
         * MFA
-        * OAuth
         * RBAC
     * Data Loss Prevention
     * Data Governance
