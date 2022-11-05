@@ -17,7 +17,17 @@
         * MFA
         * RBAC
     * Data Loss Prevention
+      * Classification
+      * Detection
+      * Prevention
     * Data Governance
+      * Frameworks 
+        * DCAM
+        * DAMA-DMBOK
+      * Data Protection & Privacy
+        * GDPR
+        * PCI DSS
+        * HIPAA
   * Cloud Service Providers (CSPs)
     * AWS
     * GCP

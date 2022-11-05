@@ -1,47 +1,34 @@
 * Software Supply-Chain Security
-    * DevSecOps
-      * Continuous Integration
-        * Plan
-          * Threat Modeling
-            * Approaches
-              * Attacker-centric
-              * Software-centric
-              * Asset-centric
-              * Risk-centric
-            * Frameworks 
-              * STRIDE
-              * PASTA
-              * OCTAVE
-              * Cyber Kill-Chain
-              * Diamond Model 
-        * Develop
-        * Build
-        * Test
-      * IaC & Continuous Delivery
-        * Release
+  * DevSecOps
+    * Continuous Integration & Continuous Testing
+      * Plan
+        * Pre-Commit Hooks
+        * Threat Modeling
+      * Develop
+        * Secrets Management
+        * Software Composition Analysis (SCA)
+      * Build
+        * SAST
+        * Container Security
+      * Test
+        * DAST
+    * Infrastructure as Code (IaC) & Continuous Delivery
+      * Release
           * Digital Sign
-        * Deliver
+      * Deliver
           * Secure Transfer
-        * Deploy
-        * Operate
-      * Contiuous Monitoring
-        * Monitor
-        * Feedback
-      * CI / CD Pipeline Security
-          * Exposure Scanning
-              * Pre-commit Hooks 
-              * Secrets Management
-          * Artifact Scanning
-              * SAST
-              * DAST
-              * SCA
-      * Iac Scanning
-          * Vulnerability Assessment
-          * Container Scanning
-      * Continuous Monitoring
-          * Logging & Alerting
-    * Software Bill of Materials (SBOM)
-      * Standards
-        * CycloneDX
-        * Software Package Data Exchange (SPDX)
-      * SBOM Attestation
+      * Deploy
+        * Security Scan
+        * Pentesting
+        * Chaos Engineering
+      * Operate
+        * Security Patch
+        * WAF
+    * Automated Security & Compliance as Code
+      * Monitor
+      * Feedback
+  * Software Bill of Materials (SBOM)
+    * Standards
+      * CycloneDX
+      * Software Package Data Exchange (SPDX)
+    * SBOM Attestation

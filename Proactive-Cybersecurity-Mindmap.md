@@ -1,58 +1,50 @@
   * Proactive Cybersecurity
-    * Cloud-Native Security
-        * Cloud Native Application Protection Platform (CNAPP)
-          * Secure the build
-            * Vulnerability Scanning
-              * Intelligence Feeds
-              * CI/CD Integrations
-              * Scanning Registeries & Functions 
-              * Vulnerability Management
-              * Dynamic Image Assurance 
-            * Dynamic Threat Analysis 
-              * Expose Hidden Malware 
-              * Detect IoCs 
-              * Classify Malicious Attacks 
-              * Map Suspicious Activity 
-              * Image Analysis & Scanning
-          * Secure the Workloads
-            * Cloud Workload Protection Platform (CWPP)
-              * VM Security
-                * Vulnerability Scanning
-                * Host Assurance
-                * File Integrity Monitoring
-                * Registry Monitoring & Protection 
-                * Workload Segmentation 
-                * Forensics Analysis
-              * Container Security
-                * CI Scans
-                * Dynamic Analysis
-                * Image Assurance
-                * Risk Explorer 
-                * Vulnerability Shield
-                * Runtime Policies 
-                * Behavioral Profiles
-                * Workloads Firewall 
-                * Secrets Injection
-                * Auditing & Forensics
-              * Serverless Security (FaaS)
-                * Scan for Vulnerabilities
-                * Integrate CI/CD Pipelines 
-                * Ensure least-privilege
-                * Control Deployment
-                * Protect FaaS
-          * Secure the Infrastructure
-            * Cloud Security Posture Management (CSPM)
-              * CIS Benchmarking
-              * IaC Scanning
-              * Auto-Remediation
-              * Compliance Reporting
-              * Control Plane Monitoring 
-              * Open Source Architecture
-            * Kubernetes Security Posture Management (KSPM)
-              * Visualize and Prioritize Risks
-              * Control Workload Admission
-              * Determine Compliance 
-              * CIS Benchmark Checks  
-              * Penetration Testing
-              * Identity-Based Segmentation 
-
+    * Cloud Security
+      * Data Security
+        * Data Encrytion 
+          * At Rest
+          * At Transit
+        * Authentication & Authorization
+          * IAM & PAM
+            * LDAP
+            * openID Connect (OIDC)
+            * SSO
+              * OAuth
+              * SAML
+              * Kerberos
+            * JSON Web Token
+            * X.509 Certificates
+            * Webhook
+            * MFA
+            * RBAC
+        * Data Loss Prevention
+          * Classification
+          * Detection
+          * Prevention
+        * Data Governance
+          * Frameworks 
+            * DCAM
+            * DAMA-DMBOK
+          * Data Protection & Privacy
+            * GDPR
+            * PCI DSS
+            * HIPAA
+      * Cloud Service Providers (CSPs)
+        * AWS
+        * GCP
+        * Azure
+        * Oracle
+        * Alibaba
+        * Digitalocean
+        * Salesforce
+        * Heroku
+      * Cloud Models 
+        * IaaS
+        * PaaS
+        * SaaS 
+      * Cloud-Native Security
+        * CNAPP
+          * CSPM
+          * CWPP
+          * CIEM
+          * SSPM
