@@ -2,33 +2,37 @@
   * Proactive 
     * Software Supply-Chain Security
       * DevSecOps
-        * Continuous Integration & Continuous Testing
+        * Continuous Integration & Testing
           * Plan
             * Pre-Commit Hooks
             * Threat Modeling
+            * Secure Coding
           * Develop
             * Secrets Management
             * Software Composition Analysis (SCA)
           * Build
             * SAST
-            * Container Security
+            * Container Security (Trusted Images)
           * Test
             * DAST
-        * Infrastructure as Code (IaC) & Continuous Delivery
-          * Release
+            * Fuzzing
+            * IAST
+        * Continuous Delivery & Deployment
+          * Release & publish
               * Digital Sign
-          * Deliver
-              * Secure Transfer
           * Deploy
-            * Security Scan
-            * Pentesting
+            * Artifacts Scanning
+            * Application & Infrastructure Hardening (IaC / CaC)
             * Chaos Engineering
           * Operate
-            * Security Patch
+            * SBOM
+            * Pentesting
+            * Vulnerability Assessment & Security Patch
+            * Centralized Logging
+        * Runtime Defense & Monitoring
+          * Monitor & Feedback
+            * SIEM
             * WAF
-        * Automated Security & Compliance as Code
-          * Monitor
-          * Feedback
       * Software Bill of Materials (SBOM)
         * Standards
           * CycloneDX
