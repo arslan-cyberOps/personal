@@ -77,12 +77,12 @@
         * IaaS
         * PaaS
         * SaaS 
-      * Cloud-Native Security
-        * CNAPP
-          * CSPM
-          * CWPP
-          * CIEM
-          * SSPM
+    * Cloud-Native Security
+      * CNAPP
+        * CSPM
+        * KSPM
+        * CWPP
+        * CIEM
   * Reactive
       * Security Operations
         * Offensive Security
