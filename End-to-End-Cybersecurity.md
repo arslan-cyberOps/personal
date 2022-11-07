@@ -68,19 +68,18 @@
             * GDPR
             * PCI DSS
             * HIPAA
-      * Cloud Service Providers (CSPs)
-        * AWS
-        * GCP
-        * Azure
-        * Oracle
-        * Alibaba
-        * Digitalocean
-        * Salesforce
-        * Heroku
-      * Cloud Models 
-        * IaaS
-        * PaaS
-        * SaaS 
+      * Cloud Service Providers (CSPs) 
+        * Offering & Services
+          * Compute
+          * Containers
+          * Storage
+          * Databases 
+          * Security, Identity & Compliance
+          * and so on ...
+        * Models 
+          * IaaS
+          * PaaS
+          * SaaS 
     * Cloud-Native Security
       * CNAPP
         * CSPM
