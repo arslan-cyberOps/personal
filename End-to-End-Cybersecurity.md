@@ -19,7 +19,7 @@
             * IAST
         * Continuous Delivery & Deployment
           * Release & publish
-              * Digital Sign
+            * Digital Sign
           * Deploy
             * Artifacts Scanning
             * Application & Infrastructure Hardening (IaC / CaC)
